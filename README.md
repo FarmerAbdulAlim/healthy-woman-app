@@ -1,2 +1,3 @@
-# healthy-woman-app
-A Mini Project to Practice Ionic Skills
+# Project Screenshot
+
+![Project Screenshot](/src/assets/images/app.png)
